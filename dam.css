@@ -929,3 +929,31 @@ iframe#_hjRemoteVarsFrame{display:none!important;width:1px!important;height:1px!
         overflow:hidden;
     }
 }
+
+@media (min-width:360px){
+    .documentario .videoo {
+        width:100%;
+        height:500px;
+    }
+}
+
+@media (min-width:768px){
+    .documentario .videoo {
+        width:100%;
+        height:900px;
+    }
+}
+
+@media (min-width:992px){
+    .documentario .videoo {
+        width:100%;
+        height:1080px;
+    }
+}
+
+@media (min-width:1230px){
+    .documentario .videoo {
+        width:100%;
+        height:1080px;
+    }
+}
