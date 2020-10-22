@@ -1009,9 +1009,9 @@ iframe#_hjRemoteVarsFrame{display:none!important;width:1px!important;height:1px!
 
 @font-face {
     font-family: "Xilosa";
-    src: url(https://github.com/lukas380/direcao-de-arte/blob/main/fonts/xilosa.ttf?raw=true) format("truetype");
+    src: url(fonts/xilosa.ttf) format("truetype");
 }
 @font-face {
     font-family: "Raleway";
-    src: url(https://github.com/lukas380/direcao-de-arte/blob/main/fonts/Raleway-VariableFont_wght.ttf?raw=true) format("truetype");
+    src: url(fonts/Raleway-VariableFont_wght.ttf) format("truetype");
 }
