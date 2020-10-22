@@ -1007,3 +1007,10 @@ iframe#_hjRemoteVarsFrame{display:none!important;width:1px!important;height:1px!
     }
 }
 
+@font-face {
+    font-family: "Xilosa";
+    src: url(http://www.example.org/mycustomfont.ttf) format("truetype");
+}
+p.customfont { 
+    font-family: "My Custom Font", Verdana, Tahoma;
+}
