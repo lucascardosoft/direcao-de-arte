@@ -905,7 +905,7 @@ iframe#_hjRemoteVarsFrame{display:none!important;width:1px!important;height:1px!
     margin-top: 40vw;
 }
 #citacao{
-    font-family: Xilosa;
+    font-family: "Xilosa";
     font-size: 4vw;
     line-height: 4vw;
     font-style: bold;
@@ -1009,8 +1009,8 @@ iframe#_hjRemoteVarsFrame{display:none!important;width:1px!important;height:1px!
 
 @font-face {
     font-family: "Xilosa";
-    src: url(http://www.example.org/mycustomfont.ttf) format("truetype");
+    src: url(https://github.com/lukas380/direcao-de-arte/blob/main/fonts/xilosa.ttf?raw=true) format("truetype");
 }
 p.customfont { 
-    font-family: "My Custom Font", Verdana, Tahoma;
+    font-family: "Xilosa";
 }
