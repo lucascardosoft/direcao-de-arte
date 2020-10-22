@@ -845,6 +845,16 @@ iframe#_hjRemoteVarsFrame{display:none!important;width:1px!important;height:1px!
     word-wrap: break-word;
 }
 
+.centered2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    word-wrap: break-word;
+    margin-top: 10vw;
+}
+
+
 .coluna1 {
     width: 50%;
     box-sizing: border-box;
